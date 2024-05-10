@@ -1,0 +1,23 @@
+{
+    "id": "MDAR",
+    "name": "MDAR",
+    "models": [
+        {
+            "id": "MDAR",
+            "name": "MDAR"
+        }
+    ],
+    "viewerConfigs": {
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "MDAR"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "classes",
+        "expandObjectsTree": 1,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1
+    }
+}
